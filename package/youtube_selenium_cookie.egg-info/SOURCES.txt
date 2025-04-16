@@ -1,0 +1,14 @@
+setup.py
+src/upload.py
+youtube_selenium_cookie.egg-info/requires.txt
+src/enums.py
+src/exception.py
+youtube_selenium_cookie.egg-info/dependency_links.txt
+youtube_selenium_cookie.egg-info/top_level.txtyoutube_selenium_cookie.egg-info/PKG-INFO
+src/utils.py
+README.md
+youtube_selenium_cookie.egg-info/SOURCES.txt
+src/logs.py
+src/__init__.py
+
+vdkfi
